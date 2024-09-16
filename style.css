@@ -1,0 +1,11 @@
+div{
+    background-color: darkgray;
+    width: 500px;
+    height: 500px;
+    border-radius: 10px;
+    margin: 5px;
+    position: absolute;
+    top: 30%;
+    right: 40%;
+    text-align: center;
+}
